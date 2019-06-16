@@ -1,0 +1,27 @@
+C:\Users\Denis\source\repos\GOL\GOL.Database\bin\Debug\GOL.Database.dacpac
+C:\Users\Denis\source\repos\GOL\GOL.Database\bin\Debug\GOL.Database.dll
+C:\Users\Denis\source\repos\GOL\GOL.Database\bin\Debug\GOL.Database.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\Model.xml
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\refactor.xml
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\postdeploy.sql
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\predeploy.sql
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\GOL.Database.dll
+C:\Users\Denis\source\repos\GOL\GOL.Database\obj\Debug\GOL.Database.pdb
+C:\Projetos\GOL\GOL.Database\bin\Debug\GOL.Database.dacpac
+C:\Projetos\GOL\GOL.Database\bin\Debug\GOL.Database.dll
+C:\Projetos\GOL\GOL.Database\bin\Debug\GOL.Database.pdb
+C:\Projetos\GOL\GOL.Database\obj\Debug\GOL.Database.dll
+C:\Projetos\GOL\GOL.Database\obj\Debug\GOL.Database.pdb
+C:\Projetos\GOL\GOL.Database\obj\Debug\Model.xml
+C:\Projetos\GOL\GOL.Database\obj\Debug\refactor.xml
+C:\Projetos\GOL\GOL.Database\obj\Debug\postdeploy.sql
+C:\Projetos\GOL\GOL.Database\obj\Debug\predeploy.sql
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\bin\Debug\GOL.Database.dacpac
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\bin\Debug\GOL.Database.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\bin\Debug\GOL.Database.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\Model.xml
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\refactor.xml
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\postdeploy.sql
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\predeploy.sql
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\GOL.Database.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Database\obj\Debug\GOL.Database.pdb

@@ -1,0 +1,26 @@
+C:\Users\Denis\source\repos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.deps.json
+C:\Users\Denis\source\repos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\source\repos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\source\repos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.deps.json
+C:\Projetos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfoInputs.cache
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfo.cs
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Domain\obj\Debug\netcoreapp2.1\GOL.Domain.pdb

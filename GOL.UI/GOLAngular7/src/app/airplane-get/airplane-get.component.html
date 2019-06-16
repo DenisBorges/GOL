@@ -1,0 +1,32 @@
+<div style="margin:50px;">
+    <div class="alert alert-info"><b>Listar Airplanes</b></div>
+    <div class="table-responsive">
+      <table class="table">
+        <thead>
+          <tr>
+            <th [ngClass]="'hide'">id</th>
+            <th>Código</th>
+            <th>Modelo</th>
+            <th>Qtd. Passageiros</th>
+            <th>Data de Criação</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of airplaneList">
+            <td [ngClass]="'hide'">{{item.id}}</td>
+            <td>{{item.codigo_do_aviao}}</td>
+            <td>{{item.modelo}}</td>
+            <td>{{item.qtd_passageiros}}</td>
+            <td>{{item.dt_criacao_registro | date: 'dd/MM/yyyy hh:mm:ss'}}</td>
+            <td>
+              <span>
+              <button type="button" (click)="deleteAirplane(item.id)" class="btn btn-danger">Excluir</button>
+              <button type="button" (click)="editAirplane(item.id)" class="btn btn-primary">Editar</button>
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>

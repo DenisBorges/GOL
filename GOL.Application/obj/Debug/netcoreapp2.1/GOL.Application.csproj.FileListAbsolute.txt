@@ -1,0 +1,42 @@
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.deps.json
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CopyComplete
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\source\repos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\source\repos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.deps.json
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Projetos\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csprojAssemblyReference.cache
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfoInputs.cache
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfo.cs
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CopyComplete
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Projetos\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.csproj.CopyComplete
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Application\obj\Debug\netcoreapp2.1\GOL.Application.pdb

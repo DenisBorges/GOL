@@ -1,0 +1,32 @@
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.deps.json
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.pdb
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Projetos\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csprojAssemblyReference.cache
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.AssemblyInfo.cs
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csproj.CopyComplete
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Projetos\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.CrossCutting.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.csproj.CopyComplete
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.CrossCutting\obj\Debug\netcoreapp2.1\GOL.CrossCutting.pdb

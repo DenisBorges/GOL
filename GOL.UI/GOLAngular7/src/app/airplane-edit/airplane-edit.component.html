@@ -1,0 +1,54 @@
+<br/>
+<div class="col-md-6">
+<div class="card">
+  <div class="card-header"><b>Atualizar Airplane</b></div>
+    <div class="card-body">
+      <form [formGroup]="angForm" novalidate>
+          <div class="form-group">
+              <input type="text" class="form-control hide" formControlName="id" #id [(ngModel)] = "airplane.id" />
+            </div>
+            <div *ngIf="angForm.controls['id'].invalid && (angForm.controls['id'].dirty || angForm.controls['id'].touched)" class="alert alert-danger">
+              <div *ngIf="angForm.controls['id'].errors.required">
+                Id é Obrigatório.
+              </div>
+            </div>
+        <div class="form-group">
+          <label class="col-md-4">Código</label>
+          <input type="text" class="form-control" formControlName="codigo_do_aviao" #codigo_do_aviao [(ngModel)] = "airplane.codigo_do_aviao" />
+        </div>
+        <div *ngIf="angForm.controls['codigo_do_aviao'].invalid && (angForm.controls['codigo_do_aviao'].dirty || angForm.controls['codigo_do_aviao'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['codigo_do_aviao'].errors.required">
+            Código é obrigatório.
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-md-4">Modelo </label>
+          <input type="text" class="form-control" formControlName="modelo" #modelo [(ngModel)] = "airplane.modelo" />
+        </div>
+        <div *ngIf="angForm.controls['modelo'].invalid && (angForm.controls['modelo'].dirty || angForm.controls['modelo'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['modelo'].errors.required">
+            Modelo é Obrigatório.
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="col-md-4">Qtd. Passageiros </label>
+          <input type="text" class="form-control" formControlName="qtd_passageiros" #qtd_passageiros [(ngModel)] = "airplane.qtd_passageiros" />
+        </div>
+        <div *ngIf="angForm.controls['qtd_passageiros'].invalid && (angForm.controls['qtd_passageiros'].dirty || angForm.controls['qtd_passageiros'].touched)" class="alert alert-danger">
+          <div *ngIf="angForm.controls['qtd_passageiros'].errors.required">
+            Quantidade de Passageiros é obrigatório.
+          </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-4">Data de Criação </label>
+            <input type="text" class="form-control"  formControlName="dt_criacao_registro" #dt_criacao_registro [(ngModel)] = "airplane.dt_criacao_registro" />
+          </div>
+        <div class="form-group">
+          <button (click)="updateAirplane(id.value,codigo_do_aviao.value, modelo.value, qtd_passageiros.value,dt_criacao_registro.value)"
+          [disabled]="angForm.invalid" 
+          class="btn btn-primary">Atualizar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+C:\Users\Denis\source\repos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.deps.json
+C:\Users\Denis\source\repos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.json
+C:\Users\Denis\source\repos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Users\Denis\source\repos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.pdb
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cache
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cs
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Users\Denis\source\repos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.pdb
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.deps.json
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.json
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.dev.json
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.pdb
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csproj.CoreCompileInputs.cache
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cache
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cs
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfoInputs.cache
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfo.cs
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorTargetAssemblyInfo.cache
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.pdb
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csprojAssemblyReference.cache
+C:\Projetos\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csproj.CopyComplete
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Projetos\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.CrossCutting.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.runtimeconfig.dev.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Services.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Application.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.CrossCutting.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Application.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.CrossCutting.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorAssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.csproj.CopyComplete
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.Services\obj\Debug\netcoreapp2.1\GOL.Services.pdb

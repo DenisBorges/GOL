@@ -1,0 +1,36 @@
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.deps.json
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfo.cs
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\source\repos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CopyComplete
+C:\Projetos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.deps.json
+C:\Projetos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Projetos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Projetos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Projetos\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csprojAssemblyReference.cache
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CoreCompileInputs.cache
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfoInputs.cache
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfo.cs
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CopyComplete
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Projetos\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.DataAcess.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\bin\Debug\netcoreapp2.1\GOL.Domain.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csprojAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.csproj.CopyComplete
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\GOL\GOL.DataAcess\obj\Debug\netcoreapp2.1\GOL.DataAcess.pdb
