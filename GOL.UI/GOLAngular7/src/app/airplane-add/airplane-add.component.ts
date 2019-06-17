@@ -17,7 +17,7 @@ export class AirplaneAddComponent implements OnInit {
 
   createForm() {
     this.angForm = this.fb.group({
-      codigo: ['', Validators.required],
+      codigo: [0, Validators.required],
       modelo: ['', Validators.required,Validators.maxLength(50)],
       qtd_passageiros: ['', Validators.required]
       
