@@ -40,10 +40,12 @@ export class AirplaneGetComponent implements OnInit {
   };
 
   deleteAirplane(id){
-    debugger;
+    //debugger;
     const res = confirm('Gostaria de Excluir esse registro ?');
     if (res) {
-      this.ap.deleteAirplane(id);
+      this.ap.deleteAirplane(id).subscribe(()=>{
+          alert('Excluído com sucesso');
+      });
     }
     
   };
