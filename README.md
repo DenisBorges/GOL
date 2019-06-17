@@ -6,4 +6,4 @@ Para executar o projeto corretamento, siga as instruções abaixo:
 
 2º Para criação do banco de dados, Publique o projeto do caminho **4-Infra/GOL.Database apontando para a instancia que desejar**(Utilizando Visual Studio);
 
-3º Para comunicação da aplicação Angular com a WebApi altere o arquivo do projeto **GOL.UI/GOLAngular7/src/app/services/urlserverstring/urlServerRequests.ts**
+3º Para comunicação da aplicação Angular com a WebApi altere a variavel **uri** do arquivo no caminho  **GOL.UI/GOLAngular7/src/app/services/airplane.service.ts**
