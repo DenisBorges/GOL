@@ -97,13 +97,11 @@ namespace GOL.Services.Controllers
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
-        public ActionResult<string> Apagar(int id)
+        public void Apagar(int id)
         {
            var obj =  _repository.PesquisarPorId(id);
             if (obj != null)
                 _repository.Apagar(obj);
-
-            return "ok";
         }
     }
 }
