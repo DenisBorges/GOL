@@ -6,7 +6,7 @@
       <form [formGroup]="angForm" novalidate>
         <div class="form-group">
           <label class="col-md-4">Código:</label>
-          <input type="text" class="form-control" formControlName="codigo" #codigo />
+          <input type="number" class="form-control" formControlName="codigo" #codigo />
         </div>
         <div *ngIf="angForm.controls['codigo'].invalid && (angForm.controls['codigo'].dirty || angForm.controls['codigo'].touched)" class="alert alert-danger">
           <div *ngIf="angForm.controls['codigo'].errors.required">
