@@ -27,7 +27,7 @@ export class AirplaneEditComponent implements OnInit {
   createForm() {
     this.angForm = this.fb.group({
       id: [{value: ''}, Validators.required],
-      codigo_do_aviao: ['', Validators.required],
+      codigo_do_aviao: [0, Validators.required],
       modelo: ['', Validators.required],
       qtd_passageiros: ['', Validators.required],
       dt_criacao_registro: [{value: '', disabled: true}, Validators.required]
